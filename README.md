@@ -16,7 +16,6 @@ https://github.com/matejmarijic/Frontend-nanodegree-feedreader.git
 
 Load index.html in a web browser
 
-live :https://matejmarijic.github.io/Frontend-nanodegree-feedreader/
 
 ## Tests
 Test that loops through each feed in the allFeeds object and ensures it has a URL defined and that the URL is not empty.
