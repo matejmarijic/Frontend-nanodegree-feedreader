@@ -11,7 +11,7 @@ Whether you work in an organization that uses test-driven development or in an o
 
 ## Installation
 
-Clone the repo: git clone :
+Clone the repo: git clone :https://matejmarijic.github.io/Frontend-nanodegree-feedreader/
 
 Load index.html in a web browser
 
